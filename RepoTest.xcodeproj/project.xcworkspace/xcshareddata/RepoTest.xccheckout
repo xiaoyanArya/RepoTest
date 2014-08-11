@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>625144BC-ECE9-4CA2-92AB-0D196AAFB22C</string>
+	<key>IDESourceControlProjectName</key>
+	<string>RepoTest</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>CCA07A48-9602-4F7C-BE2B-06DE12442263</key>
+		<string>https://github.com/xiaoyanArya/RepoTest.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>RepoTest.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>CCA07A48-9602-4F7C-BE2B-06DE12442263</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/xiaoyanArya/RepoTest.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>CCA07A48-9602-4F7C-BE2B-06DE12442263</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>CCA07A48-9602-4F7C-BE2B-06DE12442263</string>
+			<key>IDESourceControlWCCName</key>
+			<string>RepoTest</string>
+		</dict>
+	</array>
+</dict>
+</plist>
